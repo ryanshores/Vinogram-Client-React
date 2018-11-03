@@ -1,0 +1,16 @@
+.wine-header {
+	border-bottom: 1px solid #efefef;
+	padding: 15px;
+	display: flex;
+}
+
+.user-image-container {
+	cursor: pointer;
+}
+
+.user-image {
+	width: 30px;
+	height: 30px;
+	border: 1px solid #ccc;
+	border-radius: 100%;
+}

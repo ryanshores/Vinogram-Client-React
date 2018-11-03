@@ -1,0 +1,10 @@
+.homepage {
+	margin: 0;
+}
+
+@media (min-width: 640px) {
+	.homepage {
+		margin: 0 auto;
+		max-width: 600px;
+	}
+}

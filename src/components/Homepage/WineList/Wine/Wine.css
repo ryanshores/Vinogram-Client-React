@@ -1,0 +1,19 @@
+.wine-card {
+	margin-bottom: 15px;
+	padding: 0 0 15px 0;
+}
+
+.comments p {
+	margin-bottom: 0;
+}
+
+@media (min-width: 640px) {
+	.wine-card {
+		border-radius: 3px;
+		border: 1px solid #e6e6e6;
+	}
+}
+
+b {
+	color: #262626;
+}
